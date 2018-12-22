@@ -1,0 +1,88 @@
+#mainLogo
+{
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 100%;
+  margin: 10% auto;
+  text-align: center;
+
+  font-size: 50px;
+}
+#navbar
+{
+
+  padding-top: 13px;
+}
+#footerBar
+{
+
+  position:absolute;
+  bottom:0;
+  left:0;
+
+  padding-bottom:20px;
+
+  width:100%;
+  border-style:solid;
+  border-color: rgba(0, 0, 0, .1);
+  border-width: 1px;
+
+  font-size:13px;
+
+}
+.footerItems
+{
+  position:relative;
+  display: inline-block;
+  opacity: .75;
+  left: 30px;
+  top:10px;
+  padding-right: 22px;
+
+}
+.leftItems
+{
+  position:relative;
+  display: inline-block;
+  opacity: .75;
+  left: 15px;
+  padding-right: 10px;
+  margin: 2px 2px;
+}
+.rightItems
+{
+  position:relative;
+  display: inline-block;
+  left: 1540px;
+  padding-left:10px;
+}
+.textBox
+{
+  position:relative;
+  width:500px;
+  height: 30px;
+  left: -9px;
+  margin-bottom: 10px;
+
+}
+.belowSearchBar
+{
+  position:relative;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 200px;
+  right: 32px;
+  bottom: 10px;
+  padding-left:50px;
+}
+
+
+body
+{
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
